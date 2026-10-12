@@ -1,0 +1,14 @@
+# Secrets - NEVER upload these
+.env
+
+# Python
+myenv/
+__pycache__/
+*.pyc
+
+# Node / build output
+node_modules/
+dist/
+
+# Other
+.DS_Store
