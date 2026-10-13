@@ -12,3 +12,7 @@ dist/
 
 # Other
 .DS_Store
+
+# Private chat history and Streamlit secrets
+chat_history.json
+.streamlit/secrets.toml
