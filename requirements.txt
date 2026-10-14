@@ -1,5 +1,13 @@
+
 fastapi
 uvicorn[standard]
 python-multipart
 python-dotenv
 google-genai
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+openpyxl
+reportlab
